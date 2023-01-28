@@ -14,4 +14,4 @@ print("list3=",list3)
 
 
 slicelist2 = list2[2:6]
-print("Indexvalue",slicelsit2)
+print("Indexvalue",slicelist2)
