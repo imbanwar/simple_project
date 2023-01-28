@@ -8,7 +8,7 @@ pipeline {
     }
     stage('hello') {
       steps {
-        bat 'python3 list_anwar.py'
+        bat 'python list_anwar.py'
       }
     }
   }
